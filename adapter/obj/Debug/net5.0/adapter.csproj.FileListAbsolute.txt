@@ -1,0 +1,16 @@
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.exe
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.deps.json
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.runtimeconfig.json
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.runtimeconfig.dev.json
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.dll
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\ref\adapter.dll
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\bin\Debug\net5.0\adapter.pdb
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.csproj.AssemblyReference.cache
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.AssemblyInfoInputs.cache
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.AssemblyInfo.cs
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.dll
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\ref\adapter.dll
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.pdb
+C:\Users\JFRANCISCO\Desktop\itla\pro2\adapter\obj\Debug\net5.0\adapter.genruntimeconfig.cache

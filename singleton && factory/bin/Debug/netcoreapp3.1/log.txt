@@ -1,0 +1,22 @@
+Nombre del empleado: Francis 
+Departamento: IT 
+Puesto: Frontend 
+Salario: 40000 
+Fecha y hora de creación: 27/09/21 23:21:39
+Nombre del empleado: Joan 
+Departamento: Temporero 
+Puesto: na 
+Salario: 40000 
+Fecha y hora de creación: 27/09/21 23:24:36
+Nombre del empleado: Manin 
+Departamento: we 
+Puesto: wooo 
+Salario: 39999 
+Fecha y hora de creación: 27/09/21 23:26:02
+
+Nombre del empleado: edwe 
+Departamento: we 
+Puesto: we 
+Salario: 2323 
+Fecha y hora de creación: 27/09/21 23:27:13
+

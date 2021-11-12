@@ -1,0 +1,24 @@
+namespace RRHH.Entities
+{
+    public class Temporero : Employee
+    {
+        public Temporero (
+            string cedula,
+            string name, 
+            string department, 
+            string workStation, 
+            int salary, 
+            int workHours,
+            int costPerHour
+        ) 
+        {
+            this.cedula = cedula;
+            this.name = name;
+            this.department = department;
+            this.workStation = workStation;
+            this.salary = salary;
+            this.workHours = workHours;
+            this.costPerHour = costPerHour;
+        }
+    }
+}

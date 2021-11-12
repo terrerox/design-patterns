@@ -1,0 +1,16 @@
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.exe
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.deps.json
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.runtimeconfig.json
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.runtimeconfig.dev.json
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.dll
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\RRHH.pdb
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.csprojAssemblyReference.cache
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.AssemblyInfoInputs.cache
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.AssemblyInfo.cs
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.csproj.CoreCompileInputs.cache
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.dll
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.pdb
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.genruntimeconfig.cache
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\obj\Debug\netcoreapp3.1\RRHH.csproj.CopyComplete
+C:\Users\JFRANCISCO\Desktop\itla\RRHH\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

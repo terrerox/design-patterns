@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zR+Hvf16TS0yHlOsx0gAuBLbK+5JyhTX4ODZUclWgV1cNk66h8Qr4zcblAfu7+uJLnY3Di5naout4HD78hadpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JFRANCISCO\\Desktop\\itla\\RRHH\\RRHH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JFRANCISCO\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\JFRANCISCO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
